@@ -1,0 +1,22 @@
+{
+  "name": "is-dev-wds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajanDevstree/Dev-demo-npm-package.git"
+  },
+  "keywords": [
+    "WDS"
+  ],
+  "author": "Development Users",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RajanDevstree/Dev-demo-npm-package/issues"
+  },
+  "homepage": "https://github.com/RajanDevstree/Dev-demo-npm-package#readme"
+}
